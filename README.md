@@ -26,8 +26,7 @@ Accessed Devanagiri handwritten characters dataset and implemented deep learning
   * Label 9 - thaa
   * Label 10 - cha
 
-# Question-3 
-## Provide a detailed description of what you’ve done for each point from Question 1 (keep them labelled clearly so they can be matched to the list in Question 1). Provide code and sensibly organized results (output) for us to assess what you’ve done for each sentence / bullet point from question 1. Providing insights into why your machine learning models and your experiments in Question 3 are behaving the way that they do is required and will be highly beneficial to your project grade (i.e. the equivalent to providing insightful answers to verbal questions from the assignments, without us being able to pose the questions to you since we don’t yet know what you will choose to pursue – for example verbally describe why you think one thing you tried outperformed another thing that you tried!).
+# Detailed description of what I have done for this project
 ***1) Explored the chosen dataset and loaded them***
   * The necessary libraries were imported
   * Dataset was loaded
