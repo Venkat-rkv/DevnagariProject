@@ -39,7 +39,7 @@ Accessed Devanagiri handwritten characters dataset and implemented deep learning
   * Convert lists into numpy arrays and check on data distribution - classes are equally distributed avoiding oversampling and undersampling 
 
 ***3) Built and trained Machine Learning models(VGG3, LeNet, VGG13, VGG16) which gives 99% accuracy***
-#### Referred from https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac#:~:text=There%20are%20three%20types%20of,task%20on%20the%20input%20data.
+#### Referred from https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac#:~:text=There%20are%20three%20types%20of,task%20on%20the%20input%20data
   * Layers used to build ML models(VGG3, LeNet, VGG13, VGG16):
     1) To begin with, I've used sequential model which is from keras and has layers stacked linearly, starting from the input, one layer is added at a time
     2) Building blocks of ConvNets, that is, convolutional layers are being inserted which possess set of independent filters and it's depth will be equal to input and other parameters are manually set. Feature maps are produced when these filters gets convolved on top of the input image
