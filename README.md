@@ -67,5 +67,5 @@ Accessed Devanagiri handwritten characters dataset and implemented deep learning
   * Performance of a machine learning algorithm can be measured using confusion matrix.
   * Rows represent the actual class and columns represents the predicted class, thus the intersection of both these which are away from the diagonal area represents the wrongly predicted count
 
-***Result*** - 
+# Result
 All four models(VGG3, LeNet, VGG13, VGG16) almost consistently gave an accuracy of 99% with low loss and low error rates. I feel that incase if we are handling huge & complicated datasets, we can go with bigger models(VGG16, VGG13) since it has more neurons, more neural networks can be established between neurons such that the machine learns more and results would be better. For smaller datasets, we can stick to the smaller models(VGG3, LeNet).
