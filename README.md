@@ -1,4 +1,4 @@
-# DevnagariProject
+# DevnagiriProject
 Accessed Devanagiri handwritten characters dataset and implemented deep learning using tensorflow
 1) Explored the chosen dataset and loaded them
 2) Pre-processing the data
